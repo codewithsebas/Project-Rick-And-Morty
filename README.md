@@ -6,7 +6,7 @@ Descripción
 
 Hola 👋 este mini proyecto basa de una API basada en Rick and Morty!
 
-* 🖥️  Link del proyecto en vivo! [Repocitorio!](http://myapp.com)
+* 🖥️  Link del proyecto en vivo! [Repocitorio!]([http://myapp.com](https://rick-and-morty-six-eta.vercel.app/))
 
 ### Lenguajes, Frameworks!
 
