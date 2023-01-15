@@ -1,22 +1,45 @@
-Rick and Morty!
-=================================================
+# Project App Rick & Morty #5
 
-Descripción
-------
+JavaScript is a very popular and versatile programming language that is widely used in web development. It supports a wide range of platforms and devices, and is a good choice for projects involving data manipulation and user interaction.
 
-Hola 👋 este mini proyecto basa de una API basada en Rick and Morty!
+## Author of Project
 
-* 🖥️  Link del proyecto en vivo! <a href="https://rick-and-morty-six-eta.vercel.app/" target="_blank" rel="noreferrer">https://rick-and-morty-six-eta.vercel.app/</a>
+- [@codewithsebas](https://www.github.com/codewithsebas)
 
-### Lenguajes, Frameworks!
+## Run Locally
 
-<p align="left">
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
-<a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a>
-</p>
+Clone the project
 
+```bash
+  git clone https://link-to-project
+```
 
-### Preview
+Go to the project directory
 
-<img src="https://res.cloudinary.com/dovavvnjx/image/upload/v1656221254/rick_j5ctm8.png" alt="Preview">
+```bash
+  cd my-project
+```
+
+Install dependencies
+
+```bash
+  npm i
+```
+
+Start the server
+
+```bash
+  npm run dev
+```
+
+Environments
+
+```bash
+  .env
+```
+    
+## Demo
+
+Link del proyecto [App](https://rick-and-morty-six-eta.vercel.app/)
+
+<img src="https://res.cloudinary.com/dovavvnjx/image/upload/v1673745546/Captura_de_pantalla_2023-01-14_201840_ghu9qi.png" alt="Preview">
